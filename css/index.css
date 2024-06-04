@@ -86,7 +86,7 @@ strong {
 }
 
 .info-list li {
-    margin-bottom: 20px;
+    margin-bottom: 13px;
     position: relative;
     margin-left: 10px;
     display: inline-block;
@@ -100,7 +100,7 @@ strong {
     width: 23px;
     height: 16px;
     left: -30px;
-    top: 2px;
+    top: 5px;
 }
 
 #webinar-register-form {
@@ -110,7 +110,7 @@ strong {
     width: 100%;
     max-width: 583px;
     margin: 0 auto;
-    margin-top: 22px;
+    margin-top: 20px;
 }
 
 .form-title {
